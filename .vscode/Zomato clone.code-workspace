@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Zomato clone",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Zomato clone"
+	}
+}
